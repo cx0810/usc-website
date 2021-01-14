@@ -159,6 +159,12 @@ const categories = [
         icon: ['fab', 'linkedin'],
         link: 'http://gg.gg/usplinkedin',
         color: 'steelblue'
+      },
+      {
+        name: 'Battle Royale',
+        icon: ['fab', 'telegram'],
+        link: 'http://gg.gg/usplinkedin',
+        color: 'steelblue'
       }
     ]
   },
@@ -191,7 +197,7 @@ const categories = [
       {
         name: 'See All Groups',
         icon: 'users',
-        link: '/groups',
+        link: 'https://t.me/joinchat/SN9NUuatjjaAS9et',
         color: 'mediumseagreen'
       },
       {
